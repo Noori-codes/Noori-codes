@@ -78,5 +78,7 @@
 ## 💬 Random Quotes
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Code+is+creativity+turned+into+reality;Think+twice%2C+code+once;Small+progress+every+day+leads+to+big+results;Discipline+beats+motivation;Build+it+before+you+feel+ready;Stay+hungry+stay+foolish" />
+  <img 
+    src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=socrates&font=Redressed&animation=fadeIn&bgColor=0d1117&border=true" 
+  />
 </p>
