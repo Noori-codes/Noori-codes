@@ -79,6 +79,6 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=default&font=Poppins&animation=fadeIn&bgColor=0d1117&border=true&quoteCategory=programming" 
+    src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=default&font=Poppins&animation=fadeIn&bgColor=0d1117&border=false" 
   />
 </p>
