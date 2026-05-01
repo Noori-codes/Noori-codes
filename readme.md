@@ -15,7 +15,7 @@
 
 - 💻 Passionate about **Web Development**
 - 🐧 Daily driver: **Ubuntu (Linux)**
-- 🌱 Currently learning **JavaScript & modern web technologies**
+- 🌱 Currently learning **Next JS & modern web technologies**
 - 🎯 Goal: Build impactful platforms like top tech companies
 - 🎥 YouTube: *Tech with IMX*
 - ⚡ I love clean UI and smooth user experience
