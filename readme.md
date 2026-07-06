@@ -25,11 +25,11 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,pug" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,tailwind" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,tailwind,photoshop" />
 </p>
 
 ---
